@@ -1,2 +1,4 @@
 # OSU-CS290-Demo
-Assignment 1
+Demo Repo for Assignment 1
+
+Contains 2 simple files
